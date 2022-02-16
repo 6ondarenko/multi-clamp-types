@@ -1,0 +1,19 @@
+{
+  "name": "@6ondarenko/multi-clamp-types",
+  "version": "1.0.0",
+  "description": "Types declaration file for multi-clamp package",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6ondarenko/multi-clamp-types.git"
+  },
+  "author": "Konstantin Bondarenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6ondarenko/multi-clamp-types/issues"
+  },
+  "homepage": "https://github.com/6ondarenko/multi-clamp-types#readme"
+}
